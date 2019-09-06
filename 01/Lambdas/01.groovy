@@ -1,4 +1,3 @@
-// Java风格的Lambdas
 list = [1,2,3]
 
 // Lambdas
